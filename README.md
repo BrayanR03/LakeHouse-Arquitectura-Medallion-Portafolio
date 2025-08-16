@@ -1,6 +1,7 @@
 # 🪙 Medallion Architecture en Databricks Free Edition 2025
 
-Este proyecto implementa la arquitectura **Medallion** en **Databricks Free Edition 2025**, aplicando buenas prácticas de gobierno de datos, limpieza, transformación y generación de métricas de negocio.  
+Este proyecto implementa la arquitectura **Medallion** en **Databricks Free Edition 2025**, 
+aplicando buenas prácticas de gobierno de datos, limpieza, transformación y generación de métricas de negocio.  
 
 La arquitectura Medallion se basa en **tres capas principales**:
 - **Bronze**: Ingesta cruda.
